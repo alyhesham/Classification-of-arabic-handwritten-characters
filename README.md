@@ -1,7 +1,7 @@
 # Classification-of-arabic-handwritten-characters
 
 This is simple client-server application for classifying the ahcd1 dataset found on kaggle 
-it uses a neural network implemented from scratch to classify the images
+it uses a neural network implemented from scratch to classify the images. The store.pckl file has the weights of the neural network after training with the training data instead of traing every time to test a new image.
 
 
 steps to run:
